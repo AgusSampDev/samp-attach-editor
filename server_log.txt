@@ -1,0 +1,34 @@
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R3, (C)2005-2019 SA-MP Team
+
+[05:04:19] 
+[05:04:19] Server Plugins
+[05:04:19] --------------
+[05:04:19]  Loaded 0 plugins.
+
+[05:04:19] 
+[05:04:19] Filterscripts
+[05:04:19] ---------------
+[05:04:19]   Loading filterscript 'guzeditor.amx'...
+[05:04:19] 
+	=====================================
+
+[05:04:19] 	|          AUTHOR: AGUSSAMP        |
+
+[05:04:19] 	|    https://discord.gg/GVCeZRgH   |
+
+[05:04:19] 	|       Discord: agussamp          |
+
+[05:04:19] 	|         w*l*n love you           |
+
+[05:04:19] 	=====================================
+
+[05:04:19]   Loaded 1 filterscripts.
+
+[05:04:19] Number of vehicle models: 0
